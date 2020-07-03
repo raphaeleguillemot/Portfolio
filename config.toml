@@ -3,16 +3,16 @@ languageCode = "en-us"
 theme = "aafu"
 
 [params]
-    title = "Aafu theme"
-    author = "Darshan Baral"
-    description = "Website title"
-    copyright = "aaa"
+    title = ""
+    author = "Raphaele Michelle Guillemot"
+    description = ""
+    keywords = "web developer, developer, digital artist, creative media, artists"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
-        mainTheme = "light"
+        mainTheme = "dark"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
-        showAttribute = true
+        showAttribute = false
         singlePage = false
 
     [params.favicons]
@@ -28,10 +28,10 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "First Last, Abbr."
-		tagline = "Title"
-		location = "City Name, ST"
-        photo = "profile.jpg"
+        name = "Raphaele Michelle Guillemot"
+		tagline = "Web Developer | Digital Artist"
+		location = "Hong Kong"
+        photo = "avatar.jpg"
 
     # Section for links to social websites
     [params.social]
@@ -40,33 +40,18 @@ theme = "aafu"
         [[params.social.list]]
             class = "fab"
             icon = "fa-linkedin-in"
-            url = "#"
-            title = "LinkedIn"		
-        [[params.social.list]]
-            class = "fab"
-            icon = "fa-stack-overflow"
-            url = "#"
-            title = "StackOverflow"
+            url = "https://www.linkedin.com/in/raphaele-guillemot-6a34271a8/"
+            title = "LinkedIn"
         [[params.social.list]]
             class = "fab"
             icon = "fa-github"
-            url = "#"
+            url = "https://github.com/raphaeleguillemot"
             title = "GitHub"
         [[params.social.list]]
             class = "fab"
-            icon = "fa-twitter"
-            url = "#"
-            title = "Twitter"
-		[[params.social.list]]
-            class = "ai"
-            icon = "ai-google-scholar"
-            url = "#"
-            title = "Google Scholar"
-		[[params.social.list]]
-            class = "ai"
-            icon = "ai-researchgate"
-            url = "#"
-            title = "ResearchGate"
+            icon = "fa fa-envelope"
+            url = "mailto:raphaeleguillemotmichelle AT gmail DOT com"
+            title = "Gmail"
 
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
@@ -77,18 +62,14 @@ theme = "aafu"
     [[params.showInAccordion]]
         item = "education"
     [[params.showInAccordion]]
-        item = "publication"
-    [[params.showInAccordion]]
         item = "project"
-    [[params.showInAccordion]]
-        item = "skill"
     [[params.showInAccordion]]
         item = "hobby"
 
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "**Tagline. Lorem ipsum dolor sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        description = "I'm a French-Chinese born in 2002 and aspiring to be a video game designer. The aim of this site is to showcase all my creative processes and results."
 
     # Experience section
     [params.experience]
@@ -96,15 +77,32 @@ theme = "aafu"
         icon = "fas fa-briefcase"
 
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2019 - *Present*"
-            company = "Company Name"
-            details = "Printed from desktop. Sent [emails](#). Called people using telephone. Drank water from office cooler. Ate donuts on people's birthdays."
+            position = "Head Artist"
+            dates = "2020 - *Present*"
+            company = "the Inter-School Social Issues Association (ISSIA) newspaper"
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2018 - 2019"
+            position = "Head Artist"
+            dates = "2019 - 2020"
             link = "#"
-            company = "Company Name"
+            company = "The School Newspaper Club (The Victorian)"
+            details = "Promoted as Hear Artist after four years of team participation (front pages, article related art, comics, etc...)"
+        [[params.experience.list]]
+            position = "Artist"
+            dates = "2019"
+            company = "The School Blood Drive Commitee"
+            details = "Created advertisement posters to promote the 2019 Blood Donation school event"
+        [[params.experience.list]]
+            position = "Head of Advertisement"
+            dates = "2017 - 2019"
+            company = "Family Fun Day Coffee Shop"
+        [[params.experience.list]]
+            position = "Head Editor"
+            dates = "2017 - 2020"
+            company = "The School Video Production Club (Campus TV)"
+        [[params.experience.list]]
+            position = "Podcast Editor"
+            dates = "2020 - *Present*"
+            company = "ISSIA"
 
     # Education section
     [params.education]
@@ -112,54 +110,25 @@ theme = "aafu"
         icon = "fas fa-graduation-cap"
 
         [[params.education.list]]
-            degree = "Ph.D. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
+            degree = "Visual Arts"
+            college = "IBDP Programme"
+            dates = "2018 - 2020"
         [[params.education.list]]
-            degree = "M.S. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
+            degree = "Creative Multi-media Illustration program"
+            college = "HKDI"
+            dates = "2016 - 2017"
         [[params.education.list]]
-            degree = "B.S. in Subject"
-            college = "University of State-City"
-            dates = "2004 - 2009"
-
-    # Publication section
-    [params.publication]
-        title = "Publications"
-        icon = "fas fa-book"
-        #The order below determines the order in which the items appear in "Publications" section
-        format = ["date", "authors", "title", "journal"]
-        #If you don't want to group publications, comment the line below by adding # at the beginning
-        types = ["Journal Articles", "Proceedings"]
-
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Journal Articles"
-
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Journal Articles"
-		
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Proceedings"
+            degree = "Code Apps with C++"
+            college = "iD Tech Summer Program"
+            dates = "July 2017"
+        [[params.education.list]]
+            degree = "Web Development"
+            college = "First Code Academy"
+            dates = "2017 - 2019"
+        [[params.education.list]]
+            degree = "University Mathematics I"
+            college = "HKU Summer Institute"
+            dates = "July 2019"
 
     # Project section
     [params.project]
@@ -167,46 +136,34 @@ theme = "aafu"
         icon = "fas fa-project-diagram"
 
         [[params.project.list]]
-            title = "project"
+            title = "2018「Movie Character Created By Me」- Video Competition"
             url = "#"
-            description = "Description of the project"
+            description = "Semi-Finalist (out of 1500 videos) hosted by the Hong Kong Playground Association"
         [[params.project.list]]
-            title = "project"
+            title = "2019 'Supporting Mothers’ Breastfeeding Journey' Secondary School Short Video Competition"
             url = "#"
-            description = "Description of the project"
+            description = "Merit award and certificate"
         [[params.project.list]]
-            title = "project"
+            title = "Digital Chess"
             url = "#"
-            description = "Description of the project"
+            description = "Created Digital Chess by scratch to showcase knowledge in jQuery"
         [[params.project.list]]
-            title = "project"
+            title = "HK Flower Show Drawing Competition"
             url = "#"
-            description = "Description of the project"            
+            description = "Participated in the 2019 HK Flower Show Jockey Club Student Drawing Competition"
 
     # Skill section
-    [params.skill]
+    [params.hobby]
         title = "Skills"
-        panelId = "skill-panel"
         icon = "fas fa-cogs"
 
-        [[params.skill.list]]
-            skill = "Skill 1, Skill 2"
-            skillrating = 90
-        [[params.skill.list]]
-            skill = "Skill 3"
-            skillrating = 80
-        [[params.skill.list]]
-            skill = "Skill 4"
-            skillrating = 50
-
-    # Hobby section
-    [params.hobby]
-        title = "Hobbies"
-        icon = "fas fa-gamepad"
-		
-        [[params.hobby.list]]		
-		    hobby = "Cooking"
-        [[params.hobby.list]]		
-		    hobby = "Hiking"
-        [[params.hobby.list]]		
-		    hobby = "Baking"
+        [[params.hobby.list]]
+		    hobby = "Self-Taught Digital Art since 2010"
+        [[params.hobby.list]]
+		    hobby = "Self-Taught Adobe After Effects since 2016"
+        [[params.hobby.list]]
+		    hobby = "Trained in Web Development Languages (HTML, CSS, JavaScript, JQuery, JSON, HTML5)"
+        [[params.hobby.list]]
+		    hobby = "Self-Taught Adobe Audition since 2020"
+        [[params.hobby.list]]
+		    hobby = "Knowledge on Python, C# and C++"
