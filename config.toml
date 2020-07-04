@@ -1,16 +1,54 @@
-baseURL = "https://www.example.org/"
+baseURL = "https://raphaeleguillemot.github.io"
 languageCode = "en-us"
 theme = "aafu"
+summaryLength = "10"
+paginate = 6
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/headroom/headroom.js"
+[[params.plugins.js]]
+link = "plugins/instafeed/instafeed.min.js"
+[[params.plugins.js]]
+link = "plugins/masonry/masonry.js"
+[[params.plugins.js]]
+link = "plugins/reading-time/readingTime.min.js"
+[[params.plugins.js]]
+link = "plugins/smooth-scroll/smooth-scroll.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
 
 [params]
-    title = ""
+    title = "Portfolio"
     author = "Raphaele Michelle Guillemot"
     description = ""
     keywords = "web developer, developer, digital artist, creative media, artists"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
-        mainTheme = "dark"
+        mainTheme = "pinkish"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
         showAttribute = false
         singlePage = false
@@ -39,7 +77,7 @@ theme = "aafu"
 
         [[params.social.list]]
             class = "fab"
-            icon = "fa-linkedin-in"
+            icon = "fa-linkedin"
             url = "https://www.linkedin.com/in/raphaele-guillemot-6a34271a8/"
             title = "LinkedIn"
         [[params.social.list]]
@@ -111,7 +149,7 @@ theme = "aafu"
 
         [[params.education.list]]
             degree = "Visual Arts"
-            college = "IBDP Programme"
+            college = "IBDP Program"
             dates = "2018 - 2020"
         [[params.education.list]]
             degree = "Creative Multi-media Illustration program"
