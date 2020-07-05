@@ -4,42 +4,6 @@ theme = "aafu"
 summaryLength = "10"
 paginate = 6
 
-# output
-[outputs]
-home = ["HTML", "RSS", "JSON"]
-
-# CSS Plugins
-[[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
-link = "plugins/slick/slick.css"
-[[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
-
-# JS Plugins
-[[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "plugins/headroom/headroom.js"
-[[params.plugins.js]]
-link = "plugins/instafeed/instafeed.min.js"
-[[params.plugins.js]]
-link = "plugins/masonry/masonry.js"
-[[params.plugins.js]]
-link = "plugins/reading-time/readingTime.min.js"
-[[params.plugins.js]]
-link = "plugins/smooth-scroll/smooth-scroll.js"
-[[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
-
 [params]
     title = "Portfolio"
     author = "Raphaele Michelle Guillemot"
@@ -67,8 +31,8 @@ link = "plugins/search/search.js"
     # Profile section
     [params.profile]
         name = "Raphaele Michelle Guillemot"
-		tagline = "Web Developer | Digital Artist"
-		location = "Hong Kong"
+		    tagline = "Web Developer | Digital Artist"
+		    location = "Hong Kong"
         photo = "avatar.jpg"
 
     # Section for links to social websites
