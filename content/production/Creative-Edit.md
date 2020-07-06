@@ -6,6 +6,6 @@ categories: ["Video Edits"]
 draft: false
 ---
 
-# https://drive.google.com/file/d/1lPEfFfFuqYsA21x7eYhfhmnVfaFovBvE/view
+{{< youtube M5nC_DXqCb4 >}}
 
 This is one of the many video edits I created, where I use Adobe After Effects to express my creativity
