@@ -2,7 +2,7 @@
 title: "First Website"
 date: 2018-05-23
 categories: ["Programming"]
-tags: ["Website", "HTML", "CSS", "Javascript"]
+tags: ["Website", "Javascript"]
 draft: false
 ---
 
