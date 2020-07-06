@@ -1,7 +1,7 @@
 ---
 title: "Creative Edit"
 date: 2019-04-22
-tags: ["School"]
+tags: ["Creative"]
 categories: ["Video Edits"]
 draft: false
 ---

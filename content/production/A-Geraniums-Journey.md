@@ -1,7 +1,7 @@
 ---
 title: "A Geranium's Journey"
 date: 2018-11-28
-tags: ["School"]
+tags: ["Creative"]
 categories: ["Video Edits"]
 draft: false
 ---
