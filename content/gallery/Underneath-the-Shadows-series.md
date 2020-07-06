@@ -8,4 +8,7 @@ tags: ["IBDP Visual Arts HL", "Acrylic"]
 draft: false
 ---
 
+![consumed](/images/post/consumed.jpg)
+![determined](/images/post/determined.jpg)
+
 The series is inspired by Shirin Neshat’s cultural inspiration application, where I look particularly into my culture and struggles with society: language barrier. This is seen from how Chinese words are covering my all of my face into the dark, where the Chinese words tell a story of my move to Hong Kong and how I felt socially isolated from everyone.
