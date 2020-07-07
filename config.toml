@@ -4,6 +4,9 @@ theme = "aafu"
 summaryLength = "10"
 paginate = 6
 
+[permalinks]
+post = "/:title/"
+
 [params]
     title = "Portfolio"
     author = "Raphaele Michelle Guillemot"
@@ -81,16 +84,18 @@ paginate = 6
         [[params.experience.list]]
             position = "Head Artist"
             dates = "2020 - *Present*"
+            link = "tags/issia"
             company = "the Inter-School Social Issues Association (ISSIA) newspaper"
         [[params.experience.list]]
             position = "Head Artist"
             dates = "2019 - 2020"
-            link = "#"
+            link = "tags/the-victorian"
             company = "The School Newspaper Club (The Victorian)"
             details = "Promoted as Hear Artist after four years of team participation (front pages, article related art, comics, etc...)"
         [[params.experience.list]]
             position = "Artist"
             dates = "2019"
+            link = "tags/blood-drive"
             company = "The School Blood Drive Commitee"
             details = "Created advertisement posters to promote the 2019 Blood Donation school event"
         [[params.experience.list]]
@@ -100,6 +105,7 @@ paginate = 6
         [[params.experience.list]]
             position = "Head Editor"
             dates = "2017 - 2020"
+            link = "tags/campus-tv"
             company = "The School Video Production Club (Campus TV)"
         [[params.experience.list]]
             position = "Podcast Editor"
@@ -114,6 +120,7 @@ paginate = 6
         [[params.education.list]]
             degree = "Visual Arts"
             college = "IBDP Program"
+            link = "tags/ibdp-visual-arts-hl"
             dates = "2018 - 2020"
         [[params.education.list]]
             degree = "Creative Multi-media Illustration program"
@@ -122,6 +129,7 @@ paginate = 6
         [[params.education.list]]
             degree = "Code Apps with C++"
             college = "iD Tech Summer Program"
+            link = "program/text-adventure-game/"
             dates = "July 2017"
         [[params.education.list]]
             degree = "Web Development"
@@ -139,19 +147,18 @@ paginate = 6
 
         [[params.project.list]]
             title = "2018「Movie Character Created By Me」- Video Competition"
-            url = "#"
+            url = "https://raphaeleguillemot.github.io/production/a-geraniums-journey/"
             description = "Semi-Finalist (out of 1500 videos) hosted by the Hong Kong Playground Association"
         [[params.project.list]]
             title = "2019 'Supporting Mothers’ Breastfeeding Journey' Secondary School Short Video Competition"
-            url = "#"
+            url = "https://raphaeleguillemot.github.io/production/breastfeeding-stigma/"
             description = "Merit award and certificate"
         [[params.project.list]]
             title = "Digital Chess"
-            url = "#"
+            url = "https://raphaeleguillemot.github.io/program/-chess/"
             description = "Created Digital Chess by scratch to showcase knowledge in jQuery"
         [[params.project.list]]
             title = "HK Flower Show Drawing Competition"
-            url = "#"
             description = "Participated in the 2019 HK Flower Show Jockey Club Student Drawing Competition"
 
     # Skill section

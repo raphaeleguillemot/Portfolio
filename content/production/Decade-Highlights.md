@@ -1,7 +1,7 @@
 ---
 title: "School Production: Decade"
 date: 2018-11-28
-tags: ["School"]
+tags: ["School", "Campus TV"]
 categories: ["Video Edits"]
 draft: false
 ---
