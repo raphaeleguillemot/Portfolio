@@ -120,6 +120,8 @@ post = "/:title/"
         [[params.education.list]]
             degree = "Visual Arts"
             college = "IBDP Program"
+            thesis_title = "Effect of humans on other humans: a study of human behavior."
+            thesis_link = "#"
             link = "tags/ibdp-visual-arts-hl"
             dates = "2018 - 2020"
         [[params.education.list]]
@@ -147,15 +149,15 @@ post = "/:title/"
 
         [[params.project.list]]
             title = "2018「Movie Character Created By Me」- Video Competition"
-            url = "https://raphaeleguillemot.github.io/production/a-geraniums-journey/"
+            url = "/production/a-geraniums-journey/"
             description = "Semi-Finalist (out of 1500 videos) hosted by the Hong Kong Playground Association"
         [[params.project.list]]
             title = "2019 'Supporting Mothers’ Breastfeeding Journey' Secondary School Short Video Competition"
-            url = "https://raphaeleguillemot.github.io/production/breastfeeding-stigma/"
+            url = "/production/breastfeeding-stigma/"
             description = "Merit award and certificate"
         [[params.project.list]]
             title = "Digital Chess"
-            url = "https://raphaeleguillemot.github.io/program/-chess/"
+            url = "/program/-chess/"
             description = "Created Digital Chess by scratch to showcase knowledge in jQuery"
         [[params.project.list]]
             title = "HK Flower Show Drawing Competition"
