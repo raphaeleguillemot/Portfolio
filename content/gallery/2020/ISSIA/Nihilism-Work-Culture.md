@@ -2,7 +2,7 @@
 title: "Nihilism within our modern 'work culture'"
 date: 2020-05-05
 url: "gallery/nihlism-work-culture"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["Newspaper Contributions", "ISSIA", "Digital Art"]
 draft: false
 ---

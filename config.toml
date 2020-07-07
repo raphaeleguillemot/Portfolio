@@ -11,7 +11,7 @@ post = "/:title/"
     title = "Portfolio"
     author = "Raphaele Michelle Guillemot"
     description = ""
-    keywords = "web developer, developer, digital artist, creative media, artists"
+    keywords = "web developer, developer, digital artist, creative media, artist"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'

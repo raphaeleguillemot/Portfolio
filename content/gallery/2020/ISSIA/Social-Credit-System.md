@@ -2,7 +2,7 @@
 title: "Social Credit System"
 date: 2020-05-29
 url: "gallery/social-credit-system"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["Newspaper Contributions", "ISSIA", "Digital Art"]
 draft: false
 ---

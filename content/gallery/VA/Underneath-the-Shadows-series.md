@@ -4,7 +4,7 @@ date: 2019-01-23
 url: "gallery/underneath-the-shadows"
 description: "Acrylic on Black Foam Board; 41.5(W) x 59(H) cm"
 image: "images/masonary-post/consumed.jpg"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["School", "IBDP Visual Arts HL", "Acrylic"]
 draft: false
 ---

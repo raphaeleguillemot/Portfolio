@@ -2,7 +2,7 @@
 title: "2018 CAS Edition Front Page"
 date: 2018-11-06
 url: "gallery/cas-edition"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["Newspaper Contributions", "School", "The Victorian", "Digital Art"]
 draft: false
 ---

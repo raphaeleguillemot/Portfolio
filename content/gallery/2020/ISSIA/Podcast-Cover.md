@@ -2,7 +2,7 @@
 title: "Podcast Cover"
 date: 2020-05-05
 url: "gallery/podcast-cover"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["Newspaper Contributions", "Advertisement", "ISSIA", "Digital Art"]
 draft: false
 ---

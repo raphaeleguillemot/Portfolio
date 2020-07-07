@@ -4,7 +4,7 @@ date: 2018-10-14
 url: "gallery/green-forest"
 description: "Acrylic on Paper; 18.5(W) x 54.5(H) cm"
 type: "post"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["School", "IBDP Visual Arts HL", "Acrylic"]
 draft: false
 ---

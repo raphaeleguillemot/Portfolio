@@ -4,7 +4,7 @@ date: 2020-02-14
 url: "gallery/the-year-3000"
 description: "Digital Illustration printed on Vinyl Banner; 90(W) x 60(H) cm"
 type: "post"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["School", "IBDP Visual Arts HL", "Digital Art"]
 draft: false
 ---

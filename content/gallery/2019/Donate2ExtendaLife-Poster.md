@@ -2,7 +2,7 @@
 title: "Donate to Extend A Life Poster"
 date: 2019-02-15
 url: "gallery/extend-a-life"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["Advertisement", "Blood Drive", "Digital Art"]
 draft: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: "The Stigma Around Breastfeeding"
 date: 2019-07-26
-tags: ["School", "Campus TV"]
-categories: ["Video Edits"]
+tags: ["School", "Campus TV", "Video Edits"]
+categories: ["Digital Productions"]
 draft: false
 ---
 

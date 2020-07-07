@@ -2,7 +2,7 @@
 title: "Commission for ratscene"
 date: 2020-04-17
 url: "gallery/ratscene"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["Commissions", "Digital Art"]
 draft: false
 ---

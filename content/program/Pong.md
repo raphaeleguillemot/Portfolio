@@ -1,7 +1,7 @@
 ---
 title: "Pong"
 date: 2019-05-04
-categories: ["Programming"]
+categories: ["Programs"]
 tags: ["Games", "jQuery"]
 draft: false
 ---

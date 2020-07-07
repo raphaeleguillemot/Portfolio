@@ -2,7 +2,7 @@
 title: "Commissioned 'Miya Twins'"
 date: 2020-04-11
 url: "gallery/miya-twins"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["Commissions", "Digital Art"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "2019 50th Edition Back Page"
 date: 2019-12-06
 url: "gallery/50th-edition"
-categories: ["Art"]
+categories: ["Gallery"]
 tags: ["Newspaper Contributions", "School", "The Victorian", "Digital Art"]
 draft: false
 ---
