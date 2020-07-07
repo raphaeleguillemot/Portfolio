@@ -1,7 +1,6 @@
 ---
 title: "Chess"
 date: 2019-01-28
-categories: ["Programs"]
 tags: ["Games", "jQuery"]
 draft: false
 ---

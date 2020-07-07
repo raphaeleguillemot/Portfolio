@@ -4,7 +4,6 @@ date: 2019-10-14
 url: "gallery/freedom"
 description: "Acrylic on Wood Board; 59(W) x 42(H) cm"
 type: "post"
-categories: ["Gallery"]
 tags: ["School", "IBDP Visual Arts HL", "Acrylic"]
 draft: false
 ---

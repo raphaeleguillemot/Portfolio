@@ -4,7 +4,6 @@ date: 2019-08-14
 url: "gallery/rabbit-hole"
 description: "Installation (Photograph on Glossy Paper, PVC Plastic, Black Foam Board); 39.5(W) x 39.5(H) x 9(D) cm"
 type: "post"
-categories: ["Gallery"]
 tags: ["School", "IBDP Visual Arts HL", "Installation"]
 draft: false
 ---

@@ -2,7 +2,6 @@
 title: "Doomsday Clock"
 date: 2020-04-12
 url: "gallery/doomsday-clock"
-categories: ["Gallery"]
 tags: ["Newspaper Contributions", "ISSIA", "Digital Art"]
 draft: false
 ---

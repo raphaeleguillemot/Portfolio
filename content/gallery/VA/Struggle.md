@@ -4,7 +4,6 @@ date: 2020-01-14
 url: "gallery/struggle"
 description: "Installation (Metal Wires with Paper Maché on Black Foam Board); 44(W) x 47.5(H) x 30(D) cm"
 type: "post"
-categories: ["Gallery"]
 tags: ["School", "IBDP Visual Arts HL", "Installation"]
 draft: false
 ---

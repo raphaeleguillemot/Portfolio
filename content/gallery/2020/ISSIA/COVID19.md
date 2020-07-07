@@ -2,7 +2,6 @@
 title: "COVID19"
 date: 2020-06-14
 url: "gallery/covid"
-categories: ["Gallery"]
 tags: ["Newspaper Contributions", "ISSIA", "Digital Art"]
 draft: false
 ---

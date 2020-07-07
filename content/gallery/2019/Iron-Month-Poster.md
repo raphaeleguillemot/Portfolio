@@ -2,7 +2,6 @@
 title: "Iron Month Poster"
 date: 2019-01-07
 url: "gallery/iron-month"
-categories: ["Gallery"]
 tags: ["Advertisement", "Blood Drive", "Digital Art"]
 draft: false
 ---

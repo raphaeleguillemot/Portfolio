@@ -2,7 +2,6 @@
 title: "Commission for mx.mota"
 date: 2020-04-06
 url: "gallery/mxmota"
-categories: ["Gallery"]
 tags: ["Commissions", "Digital Art"]
 draft: false
 ---

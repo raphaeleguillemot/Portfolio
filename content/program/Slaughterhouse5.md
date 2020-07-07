@@ -1,7 +1,6 @@
 ---
 title: "Slaughterhouse-5 inspired prototype"
 date: 2019-10-11
-categories: ["Programs"]
 tags: ["Games", "JQuery"]
 draft: false
 ---

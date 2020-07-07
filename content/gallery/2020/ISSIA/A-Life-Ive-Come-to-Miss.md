@@ -2,7 +2,6 @@
 title: "A Life I’ve Come to Miss"
 date: 2020-04-12
 url: "gallery/a-life-ive-come-to-miss"
-categories: ["Gallery"]
 tags: ["Newspaper Contributions", "ISSIA", "Digital Art"]
 draft: false
 ---

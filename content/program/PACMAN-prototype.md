@@ -1,7 +1,6 @@
 ---
 title: "PACMAN prototype"
 date: 2019-02-23
-categories: ["Programs"]
 tags: ["Games", "HTML5"]
 draft: false
 ---

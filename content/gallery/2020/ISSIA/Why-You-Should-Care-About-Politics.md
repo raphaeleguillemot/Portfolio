@@ -2,7 +2,6 @@
 title: "Why You Should Care about Politics"
 date: 2020-04-12
 url: "gallery/care-about-politics"
-categories: ["Gallery"]
 tags: ["Newspaper Contributions", "ISSIA", "Digital Art"]
 draft: false
 ---

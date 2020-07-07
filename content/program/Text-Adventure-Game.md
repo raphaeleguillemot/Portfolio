@@ -1,7 +1,6 @@
 ---
 title: "Text Adventure Games"
 date: 2018-10-23
-categories: ["Programs"]
 tags: ["Games", "C++", "Javascript"]
 draft: false
 ---

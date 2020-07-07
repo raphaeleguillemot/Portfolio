@@ -3,7 +3,6 @@ title: "Conflicting Worlds"
 date: 2020-03-23
 url: "gallery/conflicting-worlds"
 description: "Scratch Art Paper; 30(W) x 21(H) cm"
-categories: ["Gallery"]
 tags: ["School", "IBDP Visual Arts HL"]
 draft: false
 ---

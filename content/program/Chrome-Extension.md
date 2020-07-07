@@ -1,7 +1,6 @@
 ---
 title: "Chrome Extension"
 date: 2019-05-11
-categories: ["Programs"]
 tags: ["jQuery"]
 draft: false
 ---

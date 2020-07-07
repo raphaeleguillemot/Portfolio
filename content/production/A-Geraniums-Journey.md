@@ -2,7 +2,6 @@
 title: "A Geranium's Journey"
 date: 2018-11-28
 tags: ["Creative", "Video Edits"]
-categories: ["Digital Productions"]
 draft: false
 ---
 

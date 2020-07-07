@@ -1,7 +1,6 @@
 ---
 title: "First Website"
 date: 2018-05-23
-categories: ["Programs"]
 tags: ["Website", "Javascript"]
 draft: false
 ---

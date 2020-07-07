@@ -2,7 +2,6 @@
 title: "Creative Edit"
 date: 2019-04-22
 tags: ["Creative", "Video Edits"]
-categories: ["Digital Productions"]
 draft: false
 ---
 
