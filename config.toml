@@ -120,9 +120,7 @@ post = "/:title/"
         [[params.education.list]]
             degree = "Visual Arts"
             college = "IBDP Program"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
-            link = "tags/ibdp-visual-arts-hl"
+            thesis_link = "tags/ibdp-visual-arts-hl"
             dates = "2018 - 2020"
         [[params.education.list]]
             degree = "Creative Multi-media Illustration program"
@@ -131,7 +129,7 @@ post = "/:title/"
         [[params.education.list]]
             degree = "Code Apps with C++"
             college = "iD Tech Summer Program"
-            link = "program/text-adventure-game/"
+            thesis_link = "program/text-adventure-game/"
             dates = "July 2017"
         [[params.education.list]]
             degree = "Web Development"
