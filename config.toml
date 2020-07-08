@@ -9,13 +9,13 @@ post = "/:title/"
 
 [params]
     title = "Portfolio"
-    author = "Raphaele Michelle Guillemot"
+    author = "Raphaele Guillemot"
     description = ""
     keywords = "web developer, developer, digital artist, creative media, artist"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
-        mainTheme = "pinkish"
+        mainTheme = "main"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
         showAttribute = false
         singlePage = false
@@ -33,7 +33,7 @@ post = "/:title/"
 
     # Profile section
     [params.profile]
-        name = "Raphaele Michelle Guillemot"
+        name = "Raphaele Guillemot"
 		    tagline = "Web Developer | Digital Artist"
 		    location = "Hong Kong"
         photo = "avatar.jpg"
@@ -44,6 +44,16 @@ post = "/:title/"
 
         [[params.social.list]]
             class = "fab"
+            icon = "fa fa-id-card"
+            url = "/content/raphaeleg"
+            title = "VCF"
+        [[params.social.list]]
+            class = "fab"
+            icon = "fa fa-envelope"
+            url = "mailto:raphaeleguillemotmichelle AT gmail DOT com"
+            title = "Gmail"
+        [[params.social.list]]
+            class = "fab"
             icon = "fa-linkedin"
             url = "https://www.linkedin.com/in/raphaele-guillemot-6a34271a8/"
             title = "LinkedIn"
@@ -52,11 +62,6 @@ post = "/:title/"
             icon = "fa-github"
             url = "https://github.com/raphaeleguillemot"
             title = "GitHub"
-        [[params.social.list]]
-            class = "fab"
-            icon = "fa fa-envelope"
-            url = "mailto:raphaeleguillemotmichelle AT gmail DOT com"
-            title = "Gmail"
 
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
