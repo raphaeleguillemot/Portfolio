@@ -45,7 +45,7 @@ post = "/:title/"
         [[params.social.list]]
             class = "fab"
             icon = "fa fa-id-card"
-            url = "/content/raphaeleg"
+            url = "/raphaeleg.vcf"
             title = "VCF"
         [[params.social.list]]
             class = "fab"
