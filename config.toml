@@ -54,6 +54,11 @@ post = "/:title/"
             title = "Gmail"
         [[params.social.list]]
             class = "fab"
+            icon = "fa fa-rss"
+            url = "/index.xml"
+            title = "Subscribe (RSS)"
+        [[params.social.list]]
+            class = "fab"
             icon = "fa-linkedin"
             url = "https://www.linkedin.com/in/raphaele-guillemot-6a34271a8/"
             title = "LinkedIn"
