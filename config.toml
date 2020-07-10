@@ -61,7 +61,7 @@ post = "/:title/"
             class = "fab"
             icon = "fa-linkedin"
             url = "https://www.linkedin.com/in/raphaele-guillemot-6a34271a8/"
-            title = "LinkedIn"
+            title = "LinkedIIn"
 
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
