@@ -62,11 +62,6 @@ post = "/:title/"
             icon = "fa-linkedin"
             url = "https://www.linkedin.com/in/raphaele-guillemot-6a34271a8/"
             title = "LinkedIn"
-        [[params.social.list]]
-            class = "fab"
-            icon = "fa-github"
-            url = "https://github.com/raphaeleguillemot"
-            title = "GitHub"
 
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
