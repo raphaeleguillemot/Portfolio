@@ -123,6 +123,10 @@ post = "/:title/"
         icon = "fas fa-graduation-cap"
 
         [[params.education.list]]
+            degree = "Unity Dreamscape Design"
+            college = "HKU Summer Institute"
+            dates = "July 2020"
+        [[params.education.list]]
             degree = "Visual Arts"
             college = "IBDP Program"
             thesis_link = "tags/ibdp-visual-arts-hl"
@@ -150,6 +154,9 @@ post = "/:title/"
         title = "Projects"
         icon = "fas fa-project-diagram"
 
+        [[params.project.list]]
+            title = "2020 HKUSI Dreamscape Design"
+            description = "Attended a course on Unity and made my own Dreamscape Design to showcase my knowledge"
         [[params.project.list]]
             title = "2018「Movie Character Created By Me」- Video Competition"
             url = "/production/a-geraniums-journey/"
