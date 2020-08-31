@@ -88,7 +88,7 @@ post = "/:title/"
 
         [[params.experience.list]]
             position = "Head Artist"
-            dates = "2020 - *Present*"
+            dates = "2020"
             link = "tags/issia"
             company = "the Inter-School Social Issues Association (ISSIA) newspaper"
         [[params.experience.list]]
@@ -122,6 +122,10 @@ post = "/:title/"
         title = "Education"
         icon = "fas fa-graduation-cap"
 
+        [[params.education.list]]
+            degree = "BASc Design+ Major"
+            college = "HKU"
+            dates = "2020 - 2024"
         [[params.education.list]]
             degree = "Unity Dreamscape Design"
             college = "HKU Summer Institute"
