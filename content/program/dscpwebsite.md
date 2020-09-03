@@ -7,4 +7,4 @@ draft: false
 
 # https://dimsumculture.company
 
-I was commissioned to create a chinese culture business website for my client. I also drew the commissioned [banner picture]({{<ref "gallery/2020/dscp.md">}} "banner picture"). I used Hugo, the same approach I used for this website.
+I was commissioned to create a chinese culture business website for my client. I also drew the commissioned [banner picture]({{<ref "/gallery/2020/dscp.md">}} "banner picture"). I used Hugo, the same approach I used for this website.
