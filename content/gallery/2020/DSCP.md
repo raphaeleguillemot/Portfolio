@@ -1,5 +1,5 @@
 ---
-title: "Dim Sum Cultural Platform Commission"
+title: "Dim Sum Cultural Platform Banner Commission"
 date: 2020-09-01
 url: "gallery/dscp"
 tags: ["Commissions", "Digital Art"]
