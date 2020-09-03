@@ -1,7 +1,7 @@
 ---
 title: "Dim Sum Cultural Platform Website Commission"
 date: 2020-09-03
-tags: ["Website", "Hugo"]
+tags: ["Website", "Hugo", "Commissions"]
 draft: false
 ---
 
