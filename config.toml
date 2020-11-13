@@ -11,7 +11,7 @@ post = "/:title/"
     title = "Portfolio"
     author = "Raphaele Guillemot"
     description = ""
-    keywords = "web developer, developer, digital artist, creative media, artist"
+    keywords = "web developer, developer, digital artist, creative media, artist, marketing"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
@@ -34,7 +34,7 @@ post = "/:title/"
     # Profile section
     [params.profile]
         name = "Raphaele Guillemot"
-		    tagline = "Web Developer | Digital Artist"
+		    tagline = "Digital Marketing"
 		    location = "Hong Kong"
         photo = "avatar.jpg"
 
@@ -79,7 +79,7 @@ post = "/:title/"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "I'm a French-Chinese born in 2002 and aspiring to be a video game designer. The aim of this site is to showcase all my creative processes and results."
+        description = "I'm a French-Chinese born in 2002. The aim of this site is to showcase all my creative processes and results."
 
     # Experience section
     [params.experience]
@@ -87,35 +87,29 @@ post = "/:title/"
         icon = "fas fa-briefcase"
 
         [[params.experience.list]]
+            position = "Digital Marketing Manager"
+            dates = "2020-*Present*"
+            link = "https://dimsumculture.company/"
+            company = "Dimsum Culture Platform"
+            details = "Content creation and oversee promotion analytics"
+        [[params.experience.list]]
+            position = "Financial Secretary"
+            dates = "2020-*Present*"
+            company = "the Design+ Student Association"
+        [[params.experience.list]]
+            position = "Business-to-Customer Officer"
+            dates = "2020-*Present*"
+            company = "AIESEC in HKU"
+        [[params.experience.list]]
             position = "Head Artist"
             dates = "2020"
             link = "tags/issia"
             company = "the Inter-School Social Issues Association (ISSIA) newspaper"
         [[params.experience.list]]
-            position = "Head Artist"
-            dates = "2019 - 2020"
-            link = "tags/the-victorian"
-            company = "The School Newspaper Club (The Victorian)"
-            details = "Promoted as Hear Artist after four years of team participation (front pages, article related art, comics, etc...)"
-        [[params.experience.list]]
-            position = "Artist"
-            dates = "2019"
-            link = "tags/blood-drive"
-            company = "The School Blood Drive Commitee"
-            details = "Created advertisement posters to promote the 2019 Blood Donation school event"
-        [[params.experience.list]]
-            position = "Head of Advertisement"
-            dates = "2017 - 2019"
-            company = "Family Fun Day Coffee Shop"
-        [[params.experience.list]]
             position = "Head Editor"
             dates = "2017 - 2020"
             link = "tags/campus-tv"
             company = "The School Video Production Club (Campus TV)"
-        [[params.experience.list]]
-            position = "Podcast Editor"
-            dates = "2020 - *Present*"
-            company = "ISSIA"
 
     # Education section
     [params.education]
@@ -123,35 +117,23 @@ post = "/:title/"
         icon = "fas fa-graduation-cap"
 
         [[params.education.list]]
-            degree = "BASc Design+ Major"
-            college = "HKU"
+            degree = "BASc Design+"
+            college = "the University of Hong Kong"
             dates = "2020 - 2024"
         [[params.education.list]]
-            degree = "Unity Dreamscape Design"
-            college = "HKU Summer Institute"
-            dates = "July 2020"
-        [[params.education.list]]
-            degree = "Visual Arts"
-            college = "IBDP Program"
-            thesis_link = "tags/ibdp-visual-arts-hl"
+            degree = "IB Diploma in Visual Arts"
+            college = "Victoria Shanghai Academy"
+            thesis_title = "To what extent are video games considered as a visual art medium?"
+            thesis_link = "/"
             dates = "2018 - 2020"
-        [[params.education.list]]
-            degree = "Creative Multi-media Illustration program"
-            college = "HKDI"
-            dates = "2016 - 2017"
-        [[params.education.list]]
-            degree = "Code Apps with C++"
-            college = "iD Tech Summer Program"
-            thesis_link = "program/text-adventure-game/"
-            dates = "July 2017"
         [[params.education.list]]
             degree = "Web Development"
             college = "First Code Academy"
             dates = "2017 - 2019"
         [[params.education.list]]
-            degree = "University Mathematics I"
-            college = "HKU Summer Institute"
-            dates = "July 2019"
+            degree = "Creative Multi-media Illustration Programme"
+            college = "Hong Kong Design Institute"
+            dates = "2016 - 2017"
 
     # Project section
     [params.project]
@@ -162,20 +144,17 @@ post = "/:title/"
             title = "2020 HKUSI Dreamscape Design"
             description = "Attended a course on Unity and made my own Dreamscape Design to showcase my knowledge"
         [[params.project.list]]
-            title = "2018「Movie Character Created By Me」- Video Competition"
-            url = "/production/a-geraniums-journey/"
-            description = "Semi-Finalist (out of 1500 videos) hosted by the Hong Kong Playground Association"
-        [[params.project.list]]
             title = "2019 'Supporting Mothers’ Breastfeeding Journey' Secondary School Short Video Competition"
             url = "/production/breastfeeding-stigma/"
             description = "Merit award and certificate"
         [[params.project.list]]
+            title = "2018「Movie Character Created By Me」- Video Competition"
+            url = "/production/a-geraniums-journey/"
+            description = "Semi-Finalist (out of 1500 videos) hosted by the Hong Kong Playground Association"
+        [[params.project.list]]
             title = "Digital Chess"
             url = "/program/-chess/"
             description = "Created Digital Chess by scratch to showcase knowledge in jQuery"
-        [[params.project.list]]
-            title = "HK Flower Show Drawing Competition"
-            description = "Participated in the 2019 HK Flower Show Jockey Club Student Drawing Competition"
 
     # Skill section
     [params.hobby]
@@ -187,8 +166,4 @@ post = "/:title/"
         [[params.hobby.list]]
 		    hobby = "Self-Taught Adobe After Effects since 2016"
         [[params.hobby.list]]
-		    hobby = "Trained in Web Development Languages (HTML, CSS, JavaScript, JQuery, JSON, HTML5)"
-        [[params.hobby.list]]
-		    hobby = "Self-Taught Adobe Audition since 2020"
-        [[params.hobby.list]]
-		    hobby = "Knowledge on Python, C# and C++"
+		    hobby = "Trained in Web Development Languages (HTML, CSS, JavaScript, JQuery, JSON, HTML5) and Python"
